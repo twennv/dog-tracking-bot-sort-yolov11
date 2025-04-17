@@ -1,0 +1,49 @@
+# Base
+numpy>=1.18.5
+scipy>=1.4.1
+matplotlib>=3.2.2
+opencv-python>=4.1.1
+Pillow>=7.1.2
+PyYAML>=5.3.1
+requests>=2.23.0
+torch>=1.7.0,!=1.12.0
+torchvision>=0.8.1,!=0.13.0
+tqdm>=4.41.0
+protobuf<4.21.3
+
+# Logging
+tensorboard>=2.4.1
+
+# Plotting / Analyse
+pandas>=1.1.4
+seaborn>=0.11.0
+prettytable
+tabulate
+
+# Utilitaires
+ipython
+psutil
+thop
+easydict
+termcolor
+yacs
+gdown
+loguru
+filterpy
+ninja
+h5py
+
+# ONNX (export / ReID conversion éventuelle)
+onnx==1.8.1
+onnxruntime==1.8.0
+onnx-simplifier==0.3.5
+
+# Tracking spécifique
+lap
+motmetrics
+scikit-learn
+
+# Image
+scikit-image
+
+shapely
