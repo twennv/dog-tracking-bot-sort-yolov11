@@ -48,7 +48,7 @@ class Args:
     #fast_reid_weights = "converted_reid.pth"  # Poids du modèle ReID
     fast_reid_config = "fast_reid/configs/MOT17/sbs_S50.yml"
     fast_reid_weights = "fast_reid/pretrained_models/mot17_sbs_S50.pth"
-    cmc_method = "ecc"  # Méthode de compensation du mouvement caméra [None, orb, ecc]
+    cmc_method = "None"  # Méthode de compensation du mouvement caméra [None, orb, ecc]
     name = "BoT-SORT"
     ablation = False
     mot20 = False
