@@ -31,5 +31,5 @@ Il est conseillé d'utiliser la version 2.1 locale de cette solution de tracking
 --------------
 
 Auteur : Antoine Lebourg
-Stage LIRMM 2025 – Projet SEAdogSEA  
+Stage LIRMM 2025 - Projet SEAdogSEA  
 Dernière mise à jour : Mai 2025
